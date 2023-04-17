@@ -3,7 +3,7 @@
   <p> Hey there, I'm Pedro, an aspiring Full-Stack developer with a passion for problem-solving and building innovative web solutions. Check my repos below.</p>
 </div>
   <div>
-    <a href="https:https://github.com/pedrobianchi90">
+    <a href="https://github.com/pedrobianchi90">
     <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=pedrobianchi90&theme=nord&show_icons=true" />
     <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobianchi90&layout=compact&theme=nord&show_icons=true" />
     </a>
