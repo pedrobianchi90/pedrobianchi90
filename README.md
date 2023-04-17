@@ -1,6 +1,6 @@
 <div>
   <h1>Pedro Bianchi.</h1>
-  <h4> Hey there, I'm Pedro, an aspiring Full-Stack developer with a passion for problem-solving and building innovative web solutions. Check my repos below.</h4>
+  <s> Hey there, I'm Pedro, an aspiring Full-Stack developer with a passion for problem-solving and building innovative web solutions. Check my repos below.</s>
 </div>
   <div>
     <a href="https:https://github.com/pedrobianchi90">
@@ -9,7 +9,7 @@
     </a>
   </div>
   <div style="display: inline_block"><br>
-    <h2>Languages and Tool:</h2>
+    <h2>Languages and Tools:</h2>
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
