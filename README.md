@@ -28,7 +28,7 @@
   
   <div>
     <h2>Find Me:</h2>
-    <a href="https://criarmeulink.com.br/u/1681748188"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a class="link-type linktype="email" href="mailto:pedroedm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/pedro-hc-bianchi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </div>
   
