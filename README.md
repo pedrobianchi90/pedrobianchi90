@@ -1,6 +1,6 @@
 <div>
   <h1>Pedro Bianchi.</h1>
-  <s> Hey there, I'm Pedro, an aspiring Full-Stack developer with a passion for problem-solving and building innovative web solutions. Check my repos below.</s>
+  <p> Hey there, I'm Pedro, an aspiring Full-Stack developer with a passion for problem-solving and building innovative web solutions. Check my repos below.</p>
 </div>
   <div>
     <a href="https:https://github.com/pedrobianchi90">
