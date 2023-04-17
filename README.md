@@ -1,9 +1,10 @@
 <div>
-  <h1>Hi! I'm Pedro Bianchi</h1>
+  <h1>Pedro Bianchi.</h1>
+  <h4> a beginner Full-Stack developer with a keen interest in technology and programming. I've been coding for just over a year now, and I'm continuously learning and improving my skills in various web technologies.</h4>
 </div>
   <div>
     <a href="https:https://github.com/pedrobianchi90">
-    <img align="center" height="180" width="500" src="https://github-readme-stats.vercel.app/api?username=pedrobianchi90&theme=nord&show_icons=true" />
+    <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=pedrobianchi90&theme=nord&show_icons=true" />
     <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobianchi90&layout=compact&theme=nord&show_icons=true" />
     </a>
   </div>
@@ -26,7 +27,6 @@
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg">
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
     
   </div>
